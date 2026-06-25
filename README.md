@@ -48,3 +48,9 @@ Projenin amacı; unutulan ödemeleri azaltmak, finansal farkındalık oluşturma
 🚧 Proje geliştirme aşamasındadır.
 
 İlk sprint kapsamında temel proje yapısı oluşturulmuş ve geliştirme ortamı hazırlanmıştır.
+
+## 👥 Takım
+
+| İsim | Rol |
+|------|-----|
+| Beyzanur Aslan | Full Stack Developer |
